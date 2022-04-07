@@ -1,10 +1,10 @@
 ## Hello! My Name is Luis Carlos Marval 👋
 
-### I'm a Student and Developer!
+### I'm a Software Engineer and Entrepreneur!
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Get better in FullStack, Contribute and Travel
+- 🔭 I’m currently building financial applications
+- 🌱 I’m currently learning management
+- 🥅 2022 Goals: Get better in Buisness, Contribute and Travel
 - ⚡ Fun fact: I love climbing and hiking
 
 ### Connect with me:
